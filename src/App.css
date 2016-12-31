@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.App-Panels {
+  flex: 1 0 200px;
+}
+
+.App-Artboard {
+  background: #fafafa;
+  flex: 1 0 400px;
+}

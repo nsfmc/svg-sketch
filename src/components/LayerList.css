@@ -1,0 +1,22 @@
+.LayerList {
+  list-style:none;
+  font-family: SpaceMono-Regular, monospace;
+  font-size: 12px;
+  background: #eee;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #555;
+}
+
+.LayerList li {
+  padding: 6px;
+  border-bottom: 1px solid #555;
+}
+.LayerList h4 {
+  font-family: SpaceMono-bold;
+  text-transform: uppercase;
+  margin:0;
+}
+.LayerList li:last-child {
+  border-bottom-width: 0;
+}

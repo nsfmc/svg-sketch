@@ -1,0 +1,7 @@
+.Layer-Box {
+  fill: transparent;
+  stroke: transparent;
+}
+.Layer-Box:hover {
+  stroke: #399;
+}
